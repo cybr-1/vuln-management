@@ -1,10 +1,10 @@
 # Vulnerability Management
 
-![.](https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif)
+![.](https://i.pinimg.com/originals/c3/a9/a8/c3a9a87ed744873864ffbf67922ec014.gif)
 
-This repo will have vuln remediation resources split up into two man categories, OS and applications
+This repo will have vuln remediation resources split up into two main categories, OS and applications.
 
-Feel free to use what you think is useful or what you find as inspo.
+Feel free to use what you think is useful or find as inspo.
 
 Feedback is more than welcome.
 
