@@ -12,7 +12,7 @@ Feedback is more than welcome.
 
 # Resources
 > [!NOTE]
-> The repo will become more populated once I get the time to upload files. 
+> I'm aware it's pretty baron at the moment, more content will be added soon!
 
 ## Application
 ## OS
